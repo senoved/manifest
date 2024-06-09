@@ -3,7 +3,7 @@
 
   <remote name="senoved"
       fetch="https://github.com/senoved"
-      revision="lineage-20" />
+      revision="lineage-21" />
 
   <project path="vendor/sony/griffin" name="android_vendor_sony_griffin" remote="senoved" />
   <project path="vendor/sony/bahamut" name="android_vendor_sony_bahamut" remote="senoved" />
